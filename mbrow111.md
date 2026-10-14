@@ -8,7 +8,7 @@
 
 \```
 
-int cutRodRecursive(int rodSize, vector<int> &price, vector<int> &dp) {
+    int cutRodRecursive(int rodSize, vector<int> &price, vector<int> &dp) {
         if (rodSize == 0) {
             return 0;
         }
