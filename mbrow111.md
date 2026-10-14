@@ -1,4 +1,4 @@
-# Profile: [Michael Brown]
+# Profile: Michael Brown
 
 - **NetID:** mbrow111
 - **Major:** Data Science
